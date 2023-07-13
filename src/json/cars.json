@@ -1,0 +1,77 @@
+[
+{
+  "id":1,
+  "name": "Honda",
+  "model":"Honda civic",
+  "price": "$25,500.00",
+  "mainimage": "civic.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+{
+  "id":2,
+  "name": "Honda",
+  "model":"Honda incentives",
+  "price": "$35,500.00",
+  "mainimage": "honda-incentives.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+{
+  "id":3,
+  "name": "Honda",
+  "model":"Honda Jazz small",
+  "price": "$20,500.00",
+  "mainimage": "honda-jazz-small.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+{
+  
+  "id":4,
+  "name": "Ferrari",
+  "model":"Ferrari-F12-Ezno",
+  "price": "$30,500.00",
+  "mainimage": "Ferrari-F12-Ezno.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+{
+  "id":5,
+  "name": "Honda",
+  "model":"Honda ",
+  "price": "$15,500.00",
+  "mainimage": "honda.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+
+{
+  
+  "id":6,
+  "name": "Toyota",
+  "model":"Toyota fortuner",
+  "price": "$30,500.00",
+  "mainimage": "toyata-fortuner.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2021
+},
+{
+  "id":7,
+  "name": "Toyota",
+  "model":"Toyota corolla 2017",
+  "price": "$30,500.00",
+  "mainimage": "toyata-corolla-2017.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2017
+},
+{
+  "id":8,
+  "name": "Mercedes",
+  "model":"Mercedes Benz 2017",
+  "price": "$25,500.00",
+  "mainimage": "mercedes-benz.png",
+  "description": " dolarem architecture ut pariatur quae qui suscipt " ,
+  "year" : 2017
+}   
+]
